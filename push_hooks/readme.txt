@@ -1,0 +1,1 @@
+Il faut tout simplement executer le fichier .exe

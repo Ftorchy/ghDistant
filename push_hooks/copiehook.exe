@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ..
+repUser=$(pwd)
+xcopy /gitTraining/shared/depotRemote.git/hooks $repUser/.git/hooks
+exit 0
